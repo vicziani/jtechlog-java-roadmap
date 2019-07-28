@@ -1,6 +1,6 @@
-# JTechLog Java Technology Roadmap
+# JTechLog Java Roadmap
 
-or learning path
+Java technology roadmap or learning path
 
 ## Bevezető
 
@@ -44,7 +44,7 @@ viczian.istvan a gmail-en
 
 ## Roadmap
 
-![Java Technology Roadmap](jtechlog-java-roadmap-hu.png)
+![Java Roadmap](jtechlog-java-roadmap-hu.png)
 
 ## Készítés menete
 
