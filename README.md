@@ -4,7 +4,7 @@ Java technology roadmap or learning path
 
 ## Bevezető
 
-Manapság divatosak az un. _roadmapek_, térképek, melyek grafikusan ábrázolják, hogy miket kell megtanulni ahhoz, hogy
+Manapság divatosak az un. _roadmapek_, térképek, melyek grafikusan ábrázolják, hogy miket kell megtanulnod ahhoz, hogy
 egy területen otthonosan mozogj, hogyan kezdj neki a tanulásnak, hogy végül magas szinten meg tudd oldani a 
 felmerülő problémákat.
 
