@@ -48,6 +48,7 @@ viczian.istvan a gmail-en
 
 ## Rövidítések
 
+```
 AOP = Aspect-Oriented Programming
 API = Application Programming Interface
 BDD = Behavior-Driven Development
@@ -95,6 +96,7 @@ TDD = Test Driven Development
 WSDL = Web Services Description Language
 XML = Extensible Markup Language
 YAGNI = You Ain’t Gonna Need It
+```
 
 ## Készítés menete
 
