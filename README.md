@@ -46,8 +46,56 @@ viczian.istvan a gmail-en
 
 ![Java Roadmap](jtechlog-java-roadmap-hu.png)
 
+## Rövidítések
+
+AOP = Aspect-Oriented Programming
+API = Application Programming Interface
+BDD = Behavior-Driven Development
+CDI = Context and Dependency Injection
+CGLIB = Code Generation Library
+DIP = The Dependency Inversion Principline
+DOM = Document Object Model
+DRY = Don’t Repeat Yourself
+E2E = End-To-End
+EJB = Enterprise JavaBeans
+F.I.R.S.T = Fast + Isolated + Repeatable + Self-checking + Timely
+GSON = Java API from Google, converting Java objects to JSON, and vice-versa
+HTTPS/TLS = Hypertext Transfer Protocol Secure/Transport Layer Security
+ISP = The Interface Segregation Principline
+JAXB = Java Architecture for XML Binding
+JAX-RS = Java API for RESTful Web Services
+JAX-WS = Java API for XML Web Services
+JCP = Java Community Process
+JDBC = Java Database Connectivity
+JJWT = JSON Web Token for Java and Android
+JMS = Java Message Service
+JNDI = Java Naming and Directory Interface
+JPA = Java Persitence API
+JPQL = Java Persistence Query Language
+JSF = Java Server Faces
+JSON = JavaScript Object Notation
+JSON-P = JSON Processing
+JSP = JavaServer Pages
+JSR = Java Specification Request
+JSTL = JSP Standard Tag Library
+JVM = Java Virtual Machine
+JWT = JSON Web Token
+KISS = Keep It Simple, Stupid
+LSP = The Liskov Substitution Principline
+MOM = Message-oriented middleware
+MVC = Modell + View + Controller
+OCP = The Open Closed Principline
+OSGi = Open Services Gateway initiative
+PKI = Public Key Infrastructure
+REST = Representational State Transfer
+SOAP = Simple Object Access Protocol
+S.O.L.I.D = SRP + OCP + LSP + ISP + DIP
+SRP = The Single Responsibility Principline
+TDD = Test Driven Development
+WSDL = Web Services Description Language
+XML = Extensible Markup Language
+YAGNI = You Ain’t Gonna Need It
+
 ## Készítés menete
 
 A roadmap a [draw.io](http://www.draw.io) eszközzel készült.
-
-
