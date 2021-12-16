@@ -1,3 +1,26 @@
+## [1.2.0] - 2021-12-16
+
+* Visual Studio Code
+* Server-sent events
+* Selenium Grid
+* Keycloak
+* RFC7807 - Problem Details for HTTP APIs
+* Zalando Problem
+* Newman
+* OpenAPI
+* WireMock
+* Feign
+* JHades
+* Travis CI
+* CircleCI
+* GitHub Actions
+* ArchUnit
+* Project Reactor
+* R2DBC
+* Docker Compose
+* Micrometer
+* Dropwizard Metrics
+
 ## [1.1.0] - 2020-02-08
 
 - `CHANGELOG.md` fájl
