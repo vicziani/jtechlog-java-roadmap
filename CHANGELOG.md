@@ -1,3 +1,52 @@
+## [1.3.0] - 2023-08-10
+
+* DevOps és a CI/CD összevonása
+* DevOps / Continuous integration, delivery és deployment / GitHub Actions javasolt
+* Terraform átmozgatása a Infrastructure as Code részre
+* DevOps / Telemetry / Logging / EFK Stack, ELK Stack helyett
+* Telemetry alábontása: Monitoring, Logging, Tracing
+* Tracing / Zipkin, Jaeger
+* Containerization / Cloud Native Buildpacks, Kaniko, Kustomize
+* Integráció / REST webszolgáltatások / Zalando: deprecated
+* DevOps / YAML
+* DevSecOps / OWASP, OWASP Dependency Check
+* Architektúrák / Hexagonal / Ports & Adapters Architecture, Event Driven Architecture
+* Microprofile
+* Modularizáció / Spring Modulit
+* Java EE, Jakarta EE / Apache DeltaSpike
+* Natív / GraalVM
+* Integráció / REST webszolgáltatások / REST webszolgáltatások tesztelése / MockServer
+* Integration / Event Streaming / AVRO
+* Integration / Remote Procedure Call / gRPC, Protocol Buffers
+* Containerization / Istio Service Mesh, Linkerd Service Mesh
+* Spring Cloud projektek
+* Resilience4J
+* Spring Boot Admin
+* HATEOAS, Spring HATEOAS
+* AMPQ
+* Spring Authorization Server
+* Integration Frameworks / Apache Camel, Mule ESB, Spring Integration
+* Spring Batch
+* Spring Statemachine
+* Spring Web Flow
+* Vault
+* Backend For Frontend
+* Saga
+* Cloud
+* Serverless
+* Deployment
+* Elosztott tranzakciókezelés
+* Könyv: Enterprise Integration Patterns
+* Könyv: Growing Object-Oriented Software, Guided by Tests
+* Könyv: Working Effectively with Legacy Code
+* Könyv: The DevOps Handbook
+* Könyv: The Phoenix Project
+* Könyv: The Unicorn Project
+* Könyv: Release It!
+* Könyv: Domain Driven Design, Domain Driven Design Distilled, Implementing Domain Driven Design
+* Könyv: Clean Architecture
+* Könyv: Microservices Patterns
+
 ## [1.2.1] - 2022-10-07
 
 * JOOQ
