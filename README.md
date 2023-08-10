@@ -41,7 +41,7 @@ viczian.istvan a gmail-en
 
 ## Roadmap
 
-![Java Roadmap](jtechlog-java-roadmap-hu.png)
+![Java Roadmap](jtechlog-java-roadmap-hu.drawio.png)
 
 ## Rövidítések
 
