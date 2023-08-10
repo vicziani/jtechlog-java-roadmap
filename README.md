@@ -32,9 +32,6 @@ környezetekben pont a lila a megfelelő (vagy az egyetlen lehetséges) választ
 szélesebbkörű elterjedtség, aktívabb közösség, fejlődés, egyszerűség, tanulhatóság és tesztelhetőség.
 A térképen lévő egyik eszközzel sem lehet nagyon melléfogni, általában széleskörűen használt megoldások.
 
-A térkép szándékosan nem tér ki a következő területekre: virtualizáció, cloud computing, big data, microservice. Ezek
-elegendő anyagot biztosítanak egy külön roadmap felrajzolásához.
-
 A roadmap fejlesztése ezennel nem állt meg, folyamatosan szeretném bővíteni, magyarázni. Valamint szöveges
 leírásokat is tervezek készíteni a roadmapen lévő alterületekkel kapcsolatban. Ezekhez várok minden visszajelzést.
 

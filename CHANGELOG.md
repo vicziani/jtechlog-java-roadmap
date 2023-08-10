@@ -35,6 +35,7 @@
 * Cloud
 * Serverless
 * Deployment
+* Big Data
 * Elosztott tranzakciókezelés
 * Könyv: Enterprise Integration Patterns
 * Könyv: Growing Object-Oriented Software, Guided by Tests
