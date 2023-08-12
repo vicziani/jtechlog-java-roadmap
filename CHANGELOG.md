@@ -1,3 +1,10 @@
+## [1.3.1] - 2023-08-12
+
+* PrimeFaces
+* Netty
+* Akka
+* Retrofit
+
 ## [1.3.0] - 2023-08-10
 
 * DevOps és a CI/CD összevonása
